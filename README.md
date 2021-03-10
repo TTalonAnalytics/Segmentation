@@ -1,2 +1,4 @@
 # Segmentation
-A segmentation exercise to profile media audience
+A segmentation exercise to profile media audience.
+
+Clusterting exercises.
